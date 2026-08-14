@@ -8,3 +8,6 @@ chess.dSYM/
 .DS_Store
 
 
+*.save
+
+
