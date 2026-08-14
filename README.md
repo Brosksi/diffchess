@@ -1,4 +1,4 @@
-# Trying something new with Chess bots : August 14 2026
+x# Trying something new with Chess bots : August 14 2026
 
 for a long time chess bots have remained at their core to be just search alogrithms, this is a reserch project i have aimed to changed that. For now i will be focusing on Diffusion models
 and GNNs and experimenting with them in chess. Currently im reading other works that have been done here. My goal is to build an engine that can rival other medium to high grade chess engines.
@@ -13,7 +13,7 @@ bassically u first generate all moves not considering the king and whether or no
 
 This project as of now is in its very early stages, we have just created a random bot that makes random moves. I will contiue working on this project. Hoping to get something meaningful out of this. 
 
-- Divay agarwal
+--- Divay agarwal
 
 
 
