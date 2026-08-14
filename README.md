@@ -1,4 +1,4 @@
-x# Trying something new with Chess bots : August 14 2026
+# Trying something new with Chess bots : August 14 2026
 
 for a long time chess bots have remained at their core to be just search alogrithms, this is a reserch project i have aimed to changed that. For now i will be focusing on Diffusion models
 and GNNs and experimenting with them in chess. Currently im reading other works that have been done here. My goal is to build an engine that can rival other medium to high grade chess engines.
